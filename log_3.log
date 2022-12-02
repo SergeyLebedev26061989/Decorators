@@ -1,0 +1,13 @@
+Start time funcs 2022-12-02 09:01:21.722913
+ Name func hello_world
+ Rezult Hello World
+ Args funcs (){}Start time funcs 2022-12-02 09:01:21.722913
+ Name func summator
+ Rezult 4
+ Args funcs (2, 2){}Start time funcs 2022-12-02 09:01:21.722913
+ Name func div
+ Rezult 3.0
+ Args funcs (6, 2){}Start time funcs 2022-12-02 09:01:21.722913
+ Name func summator
+ Rezult 6.5
+ Args funcs (4.3,){'b': 2.2}
